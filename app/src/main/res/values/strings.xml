@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Circle progress</string>
+    <string name="long_task">START</string>
+</resources>
